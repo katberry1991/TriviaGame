@@ -12,3 +12,5 @@ CSS
 Javascript
 JQuery
 
+Acknowledgements
+Building a Simple with JQuery by Kerry Wall
